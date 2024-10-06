@@ -1,3 +1,0 @@
-class SCheckBoxTheme {
-  SCheckBoxTheme._();
-}
